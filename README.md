@@ -10,7 +10,7 @@ Implementation of Pipes-and-filters pattern
    ```bash
    pip install opencv-python
    ```
-Run the application:
+2. Run the application:
 
 ```bash
 
